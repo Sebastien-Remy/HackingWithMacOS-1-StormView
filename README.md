@@ -1,4 +1,9 @@
 # Hacking With MacOS
-## 1-StormView
+## StormView
 
-Paul Hudson first project for macOS. Very simple macOS app.
+Get started coding in Swift by making an image viewer app and learning key concepts.
+
+Excerpt From
+Hacking with macOS: SwiftUI Edition
+Paul Hudson
+This material may be protected by copyright.
