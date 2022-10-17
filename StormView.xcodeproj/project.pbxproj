@@ -11,6 +11,7 @@
 		96EE269028FC5E580070AD4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EE268F28FC5E580070AD4A /* ContentView.swift */; };
 		96EE269228FC5E590070AD4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96EE269128FC5E590070AD4A /* Assets.xcassets */; };
 		96EE269528FC5E590070AD4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96EE269428FC5E590070AD4A /* Preview Assets.xcassets */; };
+		96EE269D28FC95E60070AD4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EE269C28FC95E60070AD4A /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		96EE269128FC5E590070AD4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96EE269428FC5E590070AD4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		96EE269628FC5E590070AD4A /* StormView.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StormView.entitlements; sourceTree = "<group>"; };
+		96EE269C28FC95E60070AD4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				96EE268D28FC5E580070AD4A /* StormViewApp.swift */,
+				96EE269C28FC95E60070AD4A /* AppDelegate.swift */,
 				96EE268F28FC5E580070AD4A /* ContentView.swift */,
 				96EE269128FC5E590070AD4A /* Assets.xcassets */,
 				96EE269628FC5E590070AD4A /* StormView.entitlements */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96EE269D28FC95E60070AD4A /* AppDelegate.swift in Sources */,
 				96EE269028FC5E580070AD4A /* ContentView.swift in Sources */,
 				96EE268E28FC5E580070AD4A /* StormViewApp.swift in Sources */,
 			);
